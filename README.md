@@ -2,7 +2,7 @@
 Convolution Accelerator Implementation (at FPGA using  HLS) for postgraduate Edge Computing Course, Spring Semester 2022
 
 # Assignment Description (in greek):
-## Θέμα 1: Υλοποίηση Convolution acceletator σε FPGA μέσω High Level Synthesis
+## Θέμα 1: Υλοποίηση Convolution accelerator σε FPGA μέσω High Level Synthesis
 Η συνέλιξη (convolution) είναι μια σημαντική λειτουργία στην επεξεργασία σήματος και εικόνας καθώς
 και σε εφαρμογές μηχανικής και βαθιάς μηχανικής μάθησης. Η συνέλιξη λειτουργεί σε δύο σήματα (είτε
 1D σήματα είτε σε 2D π.χ. εικόνες). Στην περίπτωση της 2D συνέλιξης, μπορείτε να θεωρήσετε το ένα
